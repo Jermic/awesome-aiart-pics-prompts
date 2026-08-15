@@ -40,6 +40,8 @@
 > [!TIP]
 > 💡 在线体验 Nano Banana Pro：[https://gemini.google.com](https://gemini.google.com)
 
+- [Emu](https://image.tinchak0207.xyz) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
+
 > [!NOTE]
 > 📅 **最后更新**: 2026-01-01 | 新增 5233 个提示词
 
